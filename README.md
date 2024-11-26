@@ -146,7 +146,7 @@ This project implements a secure and efficient system for authentication and rol
 
 
 # Project Directory Structure
-
+``` bash
 project-name/
 ├── config/
 │   └── db.js                # MongoDB connection
@@ -166,6 +166,6 @@ project-name/
 ├── package.json             # Dependencies
 ├── README.md                # Project documentation
 └── server.js                # Entry point
-
+```
 
 
